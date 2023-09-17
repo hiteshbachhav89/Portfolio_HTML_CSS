@@ -1,2 +1,2 @@
-# Portfolio_HTML_CSS
+# Portfolio
 My portfolio designed using HTML and CSS.
